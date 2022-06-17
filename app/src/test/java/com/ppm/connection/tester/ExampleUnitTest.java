@@ -1,4 +1,4 @@
-package com.ppm.connection.stester;
+package com.ppm.connection.tester;
 
 import org.junit.Test;
 

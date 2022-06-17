@@ -1,4 +1,4 @@
-package com.ppm.connection.stester;
+package com.ppm.connection.tester;
 
 import androidx.appcompat.app.AppCompatActivity;
 
